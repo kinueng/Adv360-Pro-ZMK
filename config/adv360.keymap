@@ -53,7 +53,7 @@
 &trans  &trans  &trans                 &trans                  &trans                   &trans                 &none                                       &none   &trans                     &trans                 &kp LS(LC(LA(LG(I))))  &trans   &trans   &trans
 &trans  &trans  &kp LS(LA(LC(LG(S))))  &trans                  &kp LS(LA(LC(LG(F))))    &kp LS(LA(LC(LG(G))))  &none   &trans  &trans      &trans  &trans  &none   &trans                     &trans                 &trans                 &trans   &trans   &trans
 &trans  &trans  &kp LS(LA(LC(LG(X))))  &kp LS(LG(LC(LA(C))))   &trans                   &trans                                 &trans      &trans                  &kp LS(LA(LC(LG(RS(N)))))  &kp LS(LA(LC(LG(M))))  &trans                 &trans   &trans   &trans
-&trans  &trans  &trans                 &kp LC(LA(LEFT_ARROW))  &kp LC(LA(RIGHT_ARROW))                         &trans  &trans  &trans      &trans  &trans  &trans                             &trans                 &trans                 &trans   &trans   &trans
+&trans  &trans  &trans                 &kp LC(LA(LEFT_ARROW))  &kp LC(LA(RIGHT_ARROW))                         &trans  &trans  &trans      &trans  &trans  &trans                             &kp LA(LC(UP_ARROW))   &trans                 &trans   &trans   &trans
             >;
         };
 
