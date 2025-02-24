@@ -51,7 +51,7 @@
             bindings = <
 &kp F1  &kp F2  &kp F3                 &kp F4                  &kp F5                   &kp F6                 &tog 1                                      &mo 3   &kp F7                     &kp F8                 &kp F9                 &kp F10  &kp F11  &kp F12
 &trans  &trans  &trans                 &trans                  &kp LS(LG(LC(LA(R))))    &trans                 &none                                       &none   &trans                     &trans                 &kp LS(LC(LA(LG(I))))  &trans   &trans   &trans
-&trans  &trans  &kp LS(LA(LC(LG(S))))  &trans                  &kp LS(LA(LC(LG(F))))    &kp LS(LA(LC(LG(G))))  &none   &trans  &trans      &trans  &trans  &none   &trans                     &trans                 &trans                 &trans   &trans   &trans
+&trans  &trans  &kp LS(LA(LC(LG(S))))  &trans                  &kp LS(LA(LC(LG(F))))    &kp LS(LA(LC(LG(G))))  &none   &trans  &trans      &trans  &trans  &none   &kp LS(LA(LC(LG(H))))      &trans                 &trans                 &trans   &trans   &trans
 &trans  &trans  &kp LS(LA(LC(LG(X))))  &kp LS(LG(LC(LA(C))))   &trans                   &kp LS(LC(LA(LG(B))))                  &trans      &trans                  &kp LS(LA(LC(LG(RS(N)))))  &kp LS(LA(LC(LG(M))))  &trans                 &trans   &trans   &trans
 &trans  &trans  &trans                 &kp LC(LA(LEFT_ARROW))  &kp LC(LA(RIGHT_ARROW))                         &trans  &trans  &trans      &trans  &trans  &trans                             &kp LA(LC(UP_ARROW))   &trans                 &trans   &trans   &trans
             >;
